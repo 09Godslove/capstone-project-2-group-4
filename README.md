@@ -1,6 +1,6 @@
 # capstone-project-2-group-4
 # Designing a single sign-up webpage
-  #Uwumwonse Godslove (group lead)
+  # Uwumwonse Godslove (group lead)
   # Roji wadud
   # Igwe Ite ka Ite
   # Gideon Atom E.T.C

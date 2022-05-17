@@ -1,0 +1,76 @@
+body{
+    background-color: #011F26;
+    margin: 0px;
+    color: white;
+}
+header{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bolder;
+}
+.nav-bar {
+    overflow: hidden;
+    background-color: #53736A;
+    position: relative;
+}
+  
+.nav-bar #myLinks {
+    display: none;
+}
+  
+.nav-bar a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+  
+.nav-bar a.icon {
+    background: #53736A;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 0px 0px 0px 304px;
+    padding: 6.5px 16px;
+}
+  
+
+a:hover {
+    background-color: #ddd;
+    color:#A8B545
+  }
+  
+.active {
+    background-color: #024554;
+    color: white;
+}
+
+.sign-up{
+    text-align: center;
+    padding: 3rem ;
+    padding-bottom: 0rem;
+    font-size: 2rem;
+}
+.input-icons i {
+    position: absolute;
+}
+ 
+.input-icons {
+    margin-bottom: 10px;
+}
+ 
+.input-icons .icon {
+    padding: 12px;
+    color: black;
+    min-width: 40px;
+    text-align: center;
+    margin-top: -2.5rem;
+    margin-left: 19rem;
+}
+ 
+.input-field {
+    padding: 10px;
+    text-align: center;
+}
